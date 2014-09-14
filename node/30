@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/sky/favicon.ico" type="image/x-icon" />
+      <title>Hot Shacks | &nbsp;</title>
+      <link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views/css/views.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/css/layout.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/style.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/sky/custom.css?m" />
+      
+<!--[if lt IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+      <script type="text/javascript" src="../misc/jquery.js?m"></script>
+<script type="text/javascript" src="../misc/drupal.js?m"></script>
+<script type="text/javascript" src="../sites/all/modules/views/js/base.js?m"></script>
+<script type="text/javascript" src="../sites/all/modules/views/js/ajax_view.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/hoverIntent.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/superfish.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/sky.js?m"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "views": { "ajax_path": "/views/ajax", "ajaxViews": [ { "view_name": "gallery_contents", "view_display_id": "default", "view_args": "3", "view_path": "node/30", "view_base_path": null, "view_dom_id": 1, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+    </head>
+  <body class="page-node page-cck-image page-node-view anonymous-user right" id="page-node-30">
+    <div id="wrapper">
+    <div id="header" class="layout-region">
+      <div id="header-inner">
+                        <span id="site-name"> <a href="../index.html" title="&nbsp;">&nbsp;</a> </span>
+                      </div>
+    </div>
+        <div id="container" class="layout-region">
+            <div id="main">
+        <div class="main-inner">
+                                                              <h1 class="title">Hot Shacks</h1>
+                                        <div id="content" class="clearfix">
+            <div id="node-30" class="node">
+
+
+
+<!-- 
+      <span class="submitted">Posted <abbr class="created" title="2009-11-04T04:59:40+0000">Wed, 11/04/2009 - 04:59</abbr> by kuliantxo</span>
+   -->
+
+  <div class="content clear-block">
+    <div class="field field-type-filefield field-field-image">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <img src="../sites/default/files/imagecache/normal/1/cck_images/hotshacks.png" alt="Hot Shacks" title=""  class="imagecache imagecache-normal imagecache-default imagecache-normal_default" width="400" height="362" />        </div>
+        </div>
+</div>
+<div class="field field-type-nodereference field-field-gallery">
+      <div class="field-label">Galleries:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="3">Logos</a>        </div>
+        </div>
+</div>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul><li class="comment_forbidden first last"><span><a href="../user/login?destination=comment%252Freply%252F30%23comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+
+<div id="gallery-30" class="cck-gallery">
+  <div class="view view-gallery-contents view-id-gallery-contents view-display-id-default view-dom-id-1  ">
+              <div class="view-content">
+      <table class="views-view-grid">
+  <tbody>
+                <tr class="row-1 row-first">
+                  <td class="col-1">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="80" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/ibi_logo.png" alt="In Between Innings" title=""  class="imagecache imagecache-thumbnail" width="120" height="114" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="80">In Between Innings</a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="73" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/Fordham_final.jpg" alt="" title=""  class="imagecache imagecache-thumbnail" width="93" height="120" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="73">Fordham</a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="72" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/guidinghands1.png" alt="" title=""  class="imagecache imagecache-thumbnail" width="120" height="28" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="72">Guiding Hands</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-2">
+                  <td class="col-1">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="36" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/Screen&#32;shot&#32;2009-11-03&#32;at&#32;10.55.31&#32;AM.png" alt="Bella Homes Estates" title=""  class="imagecache imagecache-thumbnail" width="120" height="72" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="36">Bella Homes Estates</a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="35" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/PetFoodLogo.gif" alt="Pet Food Depot" title=""  class="imagecache imagecache-thumbnail" width="116" height="120" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="35">Pet Food Depot</a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="34" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/logo_amco.jpg" alt="AMCO" title=""  class="imagecache imagecache-thumbnail" width="111" height="120" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="34">AMCO</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-3">
+                  <td class="col-1">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="33" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/rypacific.png" alt="RyPacific Co." title=""  class="imagecache imagecache-thumbnail" width="120" height="38" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="33">RyPacific Co.</a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="32" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/logo_bubble.jpg" alt="Bubble Bums" title=""  class="imagecache imagecache-thumbnail" width="120" height="51" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="32">Bubble Bums</a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="31" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/spearhead.png" alt="Spearhead Marketing" title=""  class="imagecache imagecache-thumbnail" width="120" height="45" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="31">Spearhead Marketing</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-4">
+                  <td class="col-1">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="30" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked active"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/hotshacks.png" alt="Hot Shacks" title=""  class="imagecache imagecache-thumbnail" width="120" height="109" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="30" class="active">Hot Shacks</a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="29" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/icashing.png" alt="iCashing" title=""  class="imagecache imagecache-thumbnail" width="120" height="34" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="29">iCashing</a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="28" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/logo_atlas.jpg" alt="Atlas Corp." title=""  class="imagecache imagecache-thumbnail" width="120" height="36" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="28">Atlas Corp.</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-5 row-last">
+                  <td class="col-1">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="27" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/CyberGlobe.png" alt="Cyber Globe" title=""  class="imagecache imagecache-thumbnail" width="102" height="120" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="27">Cyber Globe</a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="26" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/MassimoSeracini.png" alt="Massimo Seracini" title=""  class="imagecache imagecache-thumbnail" width="120" height="118" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="26">Massimo Seracini</a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="25" class="imagecache imagecache-thumbnail imagecache-linked imagecache-thumbnail_linked"><img src="../sites/default/files/imagecache/thumbnail/1/cck_images/logo_beach.jpg" alt="archiGraphics Design" title=""  class="imagecache imagecache-thumbnail" width="120" height="101" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="25">Beach View</a></span>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+        <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 of 2</li>
+<li class="pager-next last"><a href="30?page=1" class="active">››</a></li>
+</ul></div>          </div> </div>
+          </div>
+          <!-- END CONTENT -->
+                            </div>
+        <!-- END MAIN INNER -->
+      </div>
+      <!-- END MAIN -->
+              <div id="sidebar-right" class="sidebar">
+          <div class="inner">
+          <div id="block-user-1" class="block block-user block-odd region-odd clearfix style-menu ">
+      <h3 class="title">Navigation</h3>
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="61" title="home">Home</a></li>
+<li class="leaf"><a href="60" title="About Us">About Us</a></li>
+<li class="leaf"><a href="../contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="4" title="">Websites</a></li>
+<li class="leaf"><a href="3" title="">Logos</a></li>
+<li class="leaf"><a href="49" title="">Ads</a></li>
+<li class="leaf last"><a href="55" title="">Prints</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php -->          </div>
+        </div>
+      <!-- END SIDEBAR RIGHT -->
+          </div>
+    <!-- END CONTAINER -->
+    <div class="push">&nbsp;</div>
+  </div>
+  <!-- END WRAPPER -->
+  <div id="footer" class="layout-region">
+    <div id="footer-inner">
+                </div>
+  </div>
+    </body>
+</html>

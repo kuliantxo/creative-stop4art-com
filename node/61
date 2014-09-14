@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/sky/favicon.ico" type="image/x-icon" />
+      <title>Welcome... | &nbsp;</title>
+      <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/css/layout.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/style.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/sky/custom.css?m" />
+      
+<!--[if lt IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+      <script type="text/javascript" src="../misc/jquery.js?m"></script>
+<script type="text/javascript" src="../misc/drupal.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/hoverIntent.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/superfish.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/sky.js?m"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+    </head>
+  <body class="page-node page-page page-node-view anonymous-user right" id="homepage">
+    <div id="wrapper">
+    <div id="header" class="layout-region">
+      <div id="header-inner">
+                        <span id="site-name"> <a href="../index.html" title="&nbsp;">&nbsp;</a> </span>
+                      </div>
+    </div>
+        <div id="container" class="layout-region">
+            <div id="main">
+        <div class="main-inner">
+                                                              <h1 class="title">Welcome...</h1>
+                                        <div id="content" class="clearfix">
+            <div id="node-61" class="node clearfix node-page node-full published not-promoted not-sticky without-photo ">
+    <div class="meta">
+                            </div>
+  <div class="content clearfix">
+    <p><b>Do you need an attractive-looking website, logo or company branding for your business at a reasonable price?</b></p>
+<p>We will work closely with you, our client, to define your business’ critical success factors and create the solutions that result in a product that elevates you to new levels.</p>
+<h3 style="margin-top: 2em"><a href="4">Websites</a></h3>
+<p>The primary purpose of a website is to get your message across and in order to do this the website must ATTRACT attention and INTEREST the viewer so that they stay at your site and find out more.</p>
+<p><a href="4"><img src="../sites/default/files/imagecache/normal/1/cck_images/web_artpix.jpg" alt="Artpix" title=""  width="282" height="199" /></a></p>
+<hr />
+<h3 style="margin-top: 2em"><a href="3">Logos</a></h3>
+<p>Have you ever wondered what your company logo means to your customers?<br />
+Logo is a very important aspect of your business. It provide uniqueness from others and provide identity for you business. The logo helps to create brand recognition. A quality logo can instantly and intuitively communicate style, professionalism, overall presence and even the philosophy of a business. Simple, but not so easy.</p>
+<p><a href="3"><img src="../sites/default/files/imagecache/normal/1/cck_images/icashing.png" alt="iCashing" title=""  width="200" height="56" /></a></p>
+<hr />
+<h3 style="margin-top: 2em"><a href="55">Print</a></h3>
+<p>Print Media is still a major tool to have mass communication, and communication is the keyword which helps to promote your business. We design brochures in a appealing way to provide greater deal of promotion of your business. You provide us the product to be promoted from brochures and our experts will suggest you best design and colors to be used to make it attractive.</p>
+<p><a href="55"><img src="../sites/default/files/imagecache/normal/1/cck_images/archisystem.gif" alt="ArchiGraphics Design System" title="" width="300" height="263" /></a></p>
+<hr />
+<h3 style="margin-top: 2em"><a href="49">Ads</a></h3>
+<p>Make sales sizzle with an eye-catching advertisement. Ads come in all shapes and sizes but they have a common goal -- to sell a product, a service, a brand. Text, visuals, or a combination of the two are the main elements of any print or digital ad.</p>
+<p><a href="49"><img src="../sites/default/files/imagecache/normal/1/cck_images/ads_christmas_lg.jpg" alt="Live365 Christmas Campaign" title="" width="262" height="300" /></a></p>
+  </div>
+  </div>          </div>
+          <!-- END CONTENT -->
+                            </div>
+        <!-- END MAIN INNER -->
+      </div>
+      <!-- END MAIN -->
+              <div id="sidebar-right" class="sidebar">
+          <div class="inner">
+          <div id="block-user-1" class="block block-user block-odd region-odd clearfix style-menu ">
+      <h3 class="title">Navigation</h3>
+    <div class="content">
+    <ul class="menu"><li class="leaf first active-trail"><a href="61" title="home" class="active">Home</a></li>
+<li class="leaf"><a href="60" title="About Us">About Us</a></li>
+<li class="leaf"><a href="../contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="4" title="">Websites</a></li>
+<li class="leaf"><a href="3" title="">Logos</a></li>
+<li class="leaf"><a href="49" title="">Ads</a></li>
+<li class="leaf last"><a href="55" title="">Prints</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php -->          </div>
+        </div>
+      <!-- END SIDEBAR RIGHT -->
+          </div>
+    <!-- END CONTAINER -->
+    <div class="push">&nbsp;</div>
+  </div>
+  <!-- END WRAPPER -->
+  <div id="footer" class="layout-region">
+    <div id="footer-inner">
+                </div>
+  </div>
+    </body>
+</html>

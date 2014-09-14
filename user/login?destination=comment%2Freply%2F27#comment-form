@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../sites/all/themes/sky/favicon.ico" type="image/x-icon" />
+      <title>User account | &nbsp;</title>
+      <link type="text/css" rel="stylesheet" media="all" href="../modules/node/node.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/date/date.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/css/layout.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/themes/sky/style.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/sky/custom.css?m" />
+      
+<!--[if lt IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="/sites/all/themes/sky/css/ie-7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+      <script type="text/javascript" src="../misc/jquery.js?m"></script>
+<script type="text/javascript" src="../misc/drupal.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/hoverIntent.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/superfish.js?m"></script>
+<script type="text/javascript" src="../sites/all/themes/sky/scripts/sky.js?m"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+    </head>
+  <body class="section-user anonymous-user right" id="page-user-login">
+    <div id="wrapper">
+    <div id="header" class="layout-region">
+      <div id="header-inner">
+                        <span id="site-name"> <a href="../index.html" title="&nbsp;">&nbsp;</a> </span>
+                      </div>
+    </div>
+        <div id="container" class="layout-region">
+            <div id="main">
+        <div class="main-inner">
+                                                              <h1 class="title">User account</h1>
+                              <div class="tab-wrapper clearfix primary-only">
+<div id="tabs-primary" class="tabs primary">
+  <ul>
+<li class="active" ><a href="../user.1">Log in</a></li>
+<li ><a href="password">Request new password</a></li>
+</ul>
+</div></div>          <div id="content" class="clearfix">
+            <form action="login?destination=comment%252Freply%252F27%23comment-form"  accept-charset="UTF-8" method="post" id="user-login">
+<div><div class="form-item form-item-textfield form-item-required" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="60" value="" class="form-text required" />
+ <div class="description">Enter your &amp;nbsp; username.</div>
+</div>
+<div class="form-item form-item-password form-item-required" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="60"  class="form-text required" />
+ <div class="description">Enter the password that accompanies your username.</div>
+</div>
+<input type="hidden" name="form_build_id" id="form-c6de482a70fe71eda704c649cde2daeb" value="form-c6de482a70fe71eda704c649cde2daeb"  />
+<input type="hidden" name="form_id" id="edit-user-login" value="user_login"  />
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+
+</div></form>
+          </div>
+          <!-- END CONTENT -->
+                            </div>
+        <!-- END MAIN INNER -->
+      </div>
+      <!-- END MAIN -->
+              <div id="sidebar-right" class="sidebar">
+          <div class="inner">
+          <div id="block-user-1" class="block block-user block-odd region-odd clearfix style-menu ">
+      <h3 class="title">Navigation</h3>
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="../node/61" title="home">Home</a></li>
+<li class="leaf"><a href="../node/60" title="About Us">About Us</a></li>
+<li class="leaf"><a href="../contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="../node/4" title="">Websites</a></li>
+<li class="leaf"><a href="../node/3" title="">Logos</a></li>
+<li class="leaf"><a href="../node/49" title="">Ads</a></li>
+<li class="leaf last"><a href="../node/55" title="">Prints</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php -->          </div>
+        </div>
+      <!-- END SIDEBAR RIGHT -->
+          </div>
+    <!-- END CONTAINER -->
+    <div class="push">&nbsp;</div>
+  </div>
+  <!-- END WRAPPER -->
+  <div id="footer" class="layout-region">
+    <div id="footer-inner">
+                </div>
+  </div>
+    </body>
+</html>
